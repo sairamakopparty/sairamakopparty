@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **LLMs**
 
-- 🌱 I’m currently learning **GO Lang & AWS**
+- 🌱 I’m currently learning **GoLang & AWS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
