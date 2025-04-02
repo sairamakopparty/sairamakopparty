@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sairama-kopparty
+  <a href="https://linkedin.com/in/sairama-kopparty">
         <img src="https://img.shields.io/badge/LinkedIn-Sai%20Rama-blue?logo=linkedin&style=flat-square" width="150" />
   </a>
 </p>
