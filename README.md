@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/sairama-kopparty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairama-kopparty" height="30" width="40" /></a>
 <a href="https://instagram.com/sairama_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sairama_25" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sairamakopparty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sairamakopparty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sai_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_rama" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sairama_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sai_rama" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairamakopparty&show_icons=true&locale=en&layout=compact" alt="sairamakopparty" /></p>
