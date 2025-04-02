@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Machine Learning**
 
-- 📫 How to reach me **khsbsairama@gmail.com**
+- 📫 Reach me at -> **khsbsairama@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
