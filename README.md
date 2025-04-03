@@ -35,9 +35,7 @@
 </p>
 <br>
 
-<p align="left">
- ⚡ Fun fact: I'm practically a social guy, buzzing around with many friends, hobbies, and new adventures😎🌍.
-</p>
+<p align="center">⚡ Fun fact: I'm practically a social guy, buzzing around with many friends, hobbies, and new adventures😎🌍.</p>
 
 ---
 
